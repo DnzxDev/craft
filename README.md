@@ -1,6 +1,4 @@
-Claro! Aqui está sua tabela reorganizada com **nomes mais simples e diretos** para os materiais:
 
----
 
 ## 🧱 **Fabricação de Armas**
 
