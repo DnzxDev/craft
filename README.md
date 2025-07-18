@@ -1,158 +1,117 @@
-# Guia de Materiais de Crafting
-
-## Fabricação de Armas
-
-### Materiais Utilizados:
-- **alloysteel** - Componente metálico principal para construção de armas
-- **gunoil** - Lubrificante para mecanismos de armas
-- **leadconnector** - Componentes conectores para peças de armas
-- **bodypistol** - Estrutura base para armas tipo pistola
-- **bodyrifle** - Estrutura base para armas tipo rifle
-- **bodysmg** - Estrutura base para armas tipo SMG
-- **sucata** - Sucata metálica (usado em algumas zonas)
-
-### Armas Produzidas:
-- **pistolmk2** - Pistola Mk2
-- **assaultrifle** - Rifle de Assalto
-- **smgmk2** - SMG Mk2
-- **snspistolmk2** - Pistola SNS Mk2
-- **microsmg** - Micro SMG
-- **specialcarbine** - Carbine Especial
+Claro! Aqui está sua tabela reorganizada com **nomes mais simples e diretos** para os materiais:
 
 ---
 
-## Fabricação Médica
+## 🧱 **Fabricação de Armas**
 
-### Materiais Utilizados:
-- **codeine** - Base farmacêutica principal
-- **aglutinante** - Agente aglutinante para medicamentos
-- **basepowder** - Pó base para formulação de medicamentos
-- **syringe** - Equipamento de injeção médica
+### Materiais:
 
-### Itens Médicos Produzidos:
-- **dorflax** - Medicamento para dor
-- **adrenaline** - Estimulante de emergência
-- **paracetamal** - Analgésico
-- **painaway** - Medicamento para dor
-- **medicalkit** - Kit médico completo
-- **bandage** - Curativo para ferimentos
-- **dipirine** - Medicamento analgésico
+* **ligaaco** – Liga de aço
+* **oleoarma** – Óleo de arma
+* **conector** – Conector metálico
+* **corpistola** – Corpo de pistola
+* **corprifle** – Corpo de rifle
+* **corpsmg** – Corpo de SMG
+* **sucata** – Sucata metálica
 
 ---
 
-## Fabricação Mecânica
+## 💉 **Fabricação Médica**
 
-### Materiais Utilizados:
-- **clip** - Prendedores e conectores metálicos
-- **groundsteel** - Materiais de aço processado
-- **rubber** - Componentes de borracha
-- **tools** - Componentes básicos de ferramentas
-- **tecido** - Materiais de tecido
+### Materiais:
 
-### Itens Mecânicos Produzidos:
-- **wrench** - Ferramenta de reparo
-- **tyre** - Pneu de veículo
-- **repairkit** - Kit de reparo de veículo
-- **pano** - Pano de limpeza
+* **codeina** – Base farmacêutica
+* **aglutinante** – Aglutinante químico
+* **poquimico** – Pó base
+* **seringa** – Seringa
 
 ---
 
-## Fabricação de Munição
+## 🔧 **Fabricação Mecânica**
 
-### Materiais Utilizados:
-- **capsule** - Cápsulas de bala
-- **gunpowder** - Propelente explosivo
-- **carbonfibers** - Material de proteção
-- **resistantfabric** - Tecido durável
-- **kevlarplate** - Proteção balística
+### Materiais:
 
-### Itens de Munição Produzidos:
-- **pistolammo** - Munição para pistola (50 balas)
-- **subammo** - Munição para submetralhadora (50 balas)
-- **rifleammo** - Munição para rifle (50 balas)
-- **vest** - Colete à prova de balas
+* **prendedor** – Clipes/conectores
+* **aco** – Aço processado
+* **borracha** – Borracha
+* **ferramentas** – Ferramentas básicas
+* **tecido** – Tecido comum
 
 ---
 
-## Fabricação de Contrabando
+## 🔫 **Fabricação de Munição**
 
-### Materiais Utilizados:
-- **moldmasterkey** - Molde de chave mestra
-- **groundsteel** - Aço processado
-- **clip** - Conectores metálicos
-- **moldhood** - Molde de capuz
-- **resistantfabric** - Tecido durável
-- **cuffmold** - Molde de algema
+### Materiais:
 
-### Itens de Contrabando Produzidos:
-- **lockpick** - Ferramenta de arrombamento
-- **hood** - Capuz de ocultação
-- **c4** - Dispositivo explosivo
-- **handcuff** - Dispositivo de contenção
+* **capsula** – Cápsula de munição
+* **polvora** – Pólvora
+* **fibra** – Fibra de carbono
+* **tecidoref** – Tecido resistente
+* **colete** – Placa de kevlar
 
 ---
 
-## Fabricação de Cartões de Acesso
+## 🚫 **Fabricação de Contrabando**
 
-### Materiais Utilizados:
-- **cleancard** - Base de cartão em branco
-- **cardplus** - Componente de aprimoramento do cartão
+### Materiais:
 
-### Cartões de Acesso Produzidos:
-- **accesscard1** - Cartão de acesso nível 1
-- **accesscard2** - Cartão de acesso nível 2
-- **accesscard3** - Cartão de acesso nível 3
-- **accesscard4** - Cartão de acesso nível 4
-- **accesscard5** - Cartão de acesso nível 5
+* **moldechave** – Molde de chave mestra
+* **aco** – Aço processado
+* **prendedor** – Clipes/conectores
+* **moldecapuz** – Molde de capuz
+* **tecidoref** – Tecido resistente
+* **moldealgema** – Molde de algema
 
 ---
 
-## Operações de Desmanche
+## 🪪 **Fabricação de Cartões de Acesso**
 
-### Materiais Utilizados:
-- **chipplate** - Componentes eletrônicos
-- **moldplate** - Molde de placa
-- **cardpermrun** - Componentes de cartão permanente
+### Materiais:
 
-### Itens de Desmanche Produzidos:
-- **newplate** - Nova placa de licença
-- **credential** - Credencial de identidade
+* **cartaobranco** – Cartão em branco
+* **cartaochip** – Chip de cartão
 
 ---
 
-## Fabricação de Drogas
+## 🔧 **Desmanche de Veículos**
 
-### Materiais Utilizados:
-- **silk** - Material para enrolar
-- **mariujana** - Material de cannabis
-- **fiberfilter** - Componente de filtragem
-- **pluspowder** - Pó de aprimoramento
-- **water** - Líquido base
-- **ephedrine** - Precursor químico
-- **distilledwater** - Água purificada
-- **simplefilter** - Filtro básico
-- **cokeleaf** - Folhas de coca
-- **hydrochloricacid** - Ácido químico
-- **bakingsoda** - Agente alcalino
+### Materiais:
 
-### Itens de Drogas Produzidos:
-- **joint** - Cigarro de cannabis (10 unidades)
-- **energydrink** - Bebida estimulante
-- **meth** - Metanfetamina
-- **cocaine** - Cocaína
+* **chip** – Chip eletrônico
+* **moldeplaca** – Molde de placa
+* **cartaofixo** – Componente de cartão fixo
 
 ---
 
-## Fabricação de Restaurante
+## 💊 **Fabricação de Drogas**
 
-### Materiais Utilizados:
-- **paohamburger** - Pão de hambúrguer
-- **carnehamburguer** - Carne de hambúrguer
-- **alface** - Alface
-- **tomate** - Tomate
-- **fatiadequeijo** - Fatia de queijo
-- **bacon** - Bacon
-- **porcao_frango** - Porção de frango
-- **cebola** - Cebola
+### Materiais:
+
+* **seda** – Seda para enrolar
+* **maconha** – Cannabis
+* **filtrofibra** – Filtro de fibra
+* **poextra** – Pó de aprimoramento
+* **agua** – Água
+* **ephedrina** – Ephedrina
+* **aguapura** – Água destilada
+* **filtrosimples** – Filtro básico
+* **folhacoca** – Folhas de coca
+* **acido** – Ácido clorídrico
+* **bicarbonato** – Bicarbonato de sódio
+
+---
+
+## 🍔 **Fabricação de Restaurante**
+
+### Materiais:
+
+* **pao** – Pão de hambúrguer
+* **carne** – Hambúrguer
+* **alface** – Alface
+* **tomate** – Tomate
+* **queijo** – Queijo
+* **bacon** – Bacon
+* **frango** – Porção de frango
+* **cebola** – Cebola
 
 
